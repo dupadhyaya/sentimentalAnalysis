@@ -1,0 +1,12 @@
+options(internet.info=0)
+#http_proxy=http://1.1.1.1:3128/
+#http_proxy_user=dhiraj:d123
+Sys.setenv(http_proxy='')
+
+#http_proxy=https://1.1.1.1:3128/
+#https_proxy_user=dhiraj:d123
+Sys.setenv(https_proxy='')
+
+#.libPaths("E:/rWork/rLibrary")
+R_LIBS='E:/rWork/rLibrary'
+#rm(list = ls())

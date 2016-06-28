@@ -1,0 +1,40 @@
+﻿Statement of Purpose
+
+
+Course : Phd (Program Code - 10536) - Part Time
+Area : Information Technology
+Topic: Big Data in E-Learning ( Educational Data Mining and Learning analytics)
+
+
+Purpose of Study: Identify the role of Big Data in E-Learning in providing Personalized and Adaptive Learning Programs and suggest a model for effective Learning.
+
+
+Factors Prompting to Undertake the Study : I wish to take to undertake the Study in Phd programme for the following reasons:-
+* As a person with Academic Background and not having done Phd, I would like to complete the mandatory requirements of UGC for Professor/Other roles in Academic Institutions.
+* I have good analytical and research skills which help me naturally to pursue a structured programme on Research. I also have requisite qualifications, personality and experience to work in this area contributing positively to Research Development.
+* The topic finds its relevance and importance in the current Academic Programmes of Education and Other Institutions. I would like to further implement such systems in various organisations.
+* I have always had interest in the area of Database Management, Analytics, Information Management, Decision Support Systems and recently had opportunity to work in E-Learning System - Moodle. As HOD and Dean of Engineering College had implemented Moodle and also developed various Learning Analytics using Excel and manual systems.
+
+
+Broad Outline of the Research Work
+
+
+Today, we are faced with a technology-driven world that forces us to spend most of our time using different types of digital devices. While it may be scary, it is also exciting for us to think of the possibilities this creates of putting these digital tools to use, to make the most out of learning and development programs. This is possible using Big Data – the latest buzzword in data mining and data analytics technologies.
+
+
+E-learning is simply the use of electronic devices to deliver educational or training content. Today's classrooms and training rooms embrace smart devices, and there are countless applications that make e-Learning increasingly engaging and effective. Benefits of eLearning abound, and they include cost effectiveness, time savings, anytime/anywhere flexibility, and easy tracking of progress.
+
+
+Big Data refers to the large amounts of unstructured data flowing through numerous sources in our digital world every second. In the e-learning scenario, Big Data is the data produced by learners interacting with the learning content. This data is collected through Learning Management Systems (LMS), Content Management Systems (CMS) and other media, including social networks via which the learners interact with our learning programs. Due to the rapid advancements in computer processing power, Big Data can now be processed and analysed, providing us with new insights into how people learn!
+
+
+Big Data allows eLearning professionals to design highly personalized e Learning courses that suit the needs of the learner in a particular location. Next, it enables to figure out the best possible eLearning strategy. Big Data, due to its tracking feature, enables learning professionals to capture data on types of learners, their learning patterns, how they have performed in assessments and so on. Thus, with all this information in hand, it becomes easy for learning professionals to devise a scalable approach for an eLearning course based on all the data they have tracked.
+
+
+Big Data has evolved not just to stay but help learning professionals build effective learning content for learners. It also enables organizations to generate better Return on Investment (ROI). Thus, the time has come to reap the benefits of this new technology to succeed in maintaining a steady growth and gaining a competitive advantage.
+
+
+The study would involve review of Literature related to E-Learning, Big Data and Learning Analytics in which various existing systems and models will be evaluated. Due to changing requirements of Students, Teachers and Education Organizations and improvement in Social Media and E-Learning System, new Model(s) of implementation of Big Data in E-Learning will be developed after understanding the currents needs of Effective Learning and Technological Trends. However, the scope of study may be worked in discussion with Guide.
+
+
+Some of the subjects which may form part of the study would be - E-Learning, Database Management, Data Processing, Data Warehousing & Mining, Data Analytics, Statistics, Machine Learning, Web Tools/ Intelligence/Analytics, Software Development Architecture, Mathematical Modeling, Neural Network, Web Dashboard, Algorithms, Student Assessment, Student Behaviour, Pedagogy Techniques, Anthropology, Business Intelligence, Predictive Analysis, MOOCs(Massive Open Online Courses) , SOOCs(Social Open Online Course)
